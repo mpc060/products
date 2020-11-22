@@ -1,0 +1,29 @@
+.content {
+  padding: 150px 250px;
+  display: grid;
+}
+
+.column {
+  padding: 20px; 
+  background: #f0f0f0;
+}
+
+.table {
+  width: 100%;
+}
+
+.buttons {
+  text-align-last: center;
+}
+
+.list {
+  padding: 20px;
+  .item {
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    display: list-item;
+    margin-left: 20px;
+    font-weight: 500;
+  }
+}
